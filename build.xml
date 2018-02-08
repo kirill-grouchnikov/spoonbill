@@ -52,7 +52,7 @@
 	<property name="spoonbill.versionKey" value="1.0.00dev Apricot" />
 
 	<property name="flamingo.basedir" value="${module.spoonbill.basedir}/../flamingo" />
-	<property name="flamingo.version" value="6.0.00-dev" />
+	<property name="flamingo.version" value="5.3.00-dev" />
 
 	<path id="spoonbill.module.bootclasspath">
 		<!-- Paths to be included in compilation bootclasspath -->
